@@ -1,0 +1,6 @@
+Hello! 
+This program was created by Samuel Bailey.
+The code is not to be sold in any form. 
+The code is open source and is to be used by anyone for everyone.
+
+The purpose of this code is to check the price of something from amazon and if the price falls under a certain amount then it will email you to check. The code is meant to be used in a cloud platform that can keep it running at all times. 
